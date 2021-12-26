@@ -5,6 +5,7 @@ Aplikacije je namjenjena za rezervaciju vozila u bilo kojem trenutku, a korisnic
 ### **Autori i zaduženja**
 
 - **Gabrijela Knapić** (gknapic@unipu.hr) - implementacija UI komponenti, pregled vozila, dodatne opreme i osiguranja
+- **Anđela Matin** (amatin@ubipu.hr) - implementacija modula za administraciju i rezervaciju
 
 ### **Prototip aplikacije**
 
